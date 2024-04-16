@@ -1,5 +1,0 @@
-3 Mart için:
-- trainable parameter sayısı (model büyüklüğü) hesaplama
-- karar sınırı (decision boundry)
-- tensorflow playgound
-- dijital ses
